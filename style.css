@@ -87,8 +87,9 @@ p{
 	}
     
 	.app {
-		width: 93%;
+		width: 92%;
         	height: 70px;
+        	margin-right: 20px;
 	}
     
 	h1 {
