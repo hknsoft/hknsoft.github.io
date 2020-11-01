@@ -88,10 +88,16 @@ p{
     
 	.app {
 		width: 93%;
+        height: 70px;
 	}
+    
+    .app-logo{
+        
+    }
     
 	h1 {
 		font-size: 22px;
+        line-height: 20px;
 	}
     
 	.google-play {
@@ -100,5 +106,10 @@ p{
     
     body{
         margin-top: 50px;
+    }
+    
+    img{
+        width: 70px;
+        height: 70px;
     }
 }
